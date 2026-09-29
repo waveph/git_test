@@ -1,1 +1,1 @@
-hello abdou i belive in you to continue and to not stop until you get what you are going for
+hello, this is me learning how git and github work together using CLI, i am used to use some GUIs versions.
