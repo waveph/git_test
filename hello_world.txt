@@ -1,1 +1,1 @@
-hello, this is me learning how git and github work together using CLI, i am used to use some GUIs versions.
+hello, this is me learning how git and github work together using CLI, i am used to use some GUIs versions. just try to be consistance.
